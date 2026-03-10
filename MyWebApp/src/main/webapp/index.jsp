@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World Welcome to DevOps Class!</h2>
+<h2>Webhook test!</h2>
 </body>
 </html>
